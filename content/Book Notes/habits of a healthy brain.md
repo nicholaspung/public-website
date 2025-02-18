@@ -6,14 +6,38 @@ tags:
 aliases:
 ---
 ## My quick summary
-- *to be filled out*
+- There are four neurochemicals we must manage in order to be happy: dopamine, endorphins, oxytocin, and serotonin. Each neurochemicals has their own triggers, and it's best to trigger them in a healthy manner, but know that this is a continuous cycle that you must manage your entire life. Building habits to trigger them is possibly the best way to continuously be happy.
 
 ### Ratings
 - **Reading difficulty:** slog through a few sections, might take some energy to focus
 - **Recommendation:** learned a few things, but could probably have learned it all in a blog post
 
 ### My notes
-- *to be filled out*
+- To increase neurochemicals
+	- Dopamine
+		- Do things that trigger the hedonic adaptation cycle
+	- Endorphins
+		- Do different exercise that makes your brain thinks "wow this is new"
+	- Oxytocin
+		- Build a community where you trust them and they trust you
+	- Serotonin
+		- Take pride in the things you've accomplished, but not too much
+		- Enjoy every moment of the social ladder you find yourself in, because it will probably change in the future
+- Your body cares about the survival of your genes more than anything, so doing the things that increase your odds of the survival of your genes will increase all the neurochemicals
+> These tools will help you train your brain
+	- Mirror: find someone with the habit you want and mirror them
+	- Balance: develop the happy chemicals you're not already best at
+	- Graft: build new happy circuits onto old happy roots
+	- Energy: save your energy for touch challenges
+	- Legacy: preserve your unique individual essence to please your inner mammal
+	- Fun: fund the fun in a new behavior and you will repeat it
+	- Chunk: divide difficult challenges into smaller parts
+	- Satisfice: a satisfactory solution may be better than an endless quest for optimal
+	- Plan: start building circuits now so they're ready when you need them
+	- Visualize: your neural pathways are building even though they're not visible
+- It takes at least 45 days on continually doing an action in order to change it into a habit
+- If you miss 1 day in the 45 days, it's better to pretend to start over at 1 the next day in order to make the habit stick
+> Status does not come from fixed labels and abstract words. It's the feeling you get when you interact with others. Those feelings change from moment to moment as we go through our day, but they depend heavily on the circuits we've already built.
 
 #### Highlights
 - ...your brain has some quirks:
@@ -26,6 +50,7 @@ aliases:
 		- "seek rewards"
 	- Promotes survival by telling your body where to invest its energy
 		- "the excitement you feel when you expect a reward"
+	- Triggers by new rewards
 - Endorphin
 	- Produces oblivion that masks pain - often called euphoria.
 		- "the oblivion that masks pain"
@@ -75,6 +100,202 @@ aliases:
 - When cortisol surges, we call it "fear," but when cortisol dribbles, we call it "anxiety" or "stress." These bad feelings tell you that pain will come if you don't act fast. Your reptile brain can't say why it released the cortisol. Electricity just flowed down a pathway. When you understand how this happens, you can distinguish more easily between internal alarms and external threats
 - When you think about threats your ancestors faced, no cortisol doom is triggered because direct experience is what builds cortisol circuits, and you share little direct experience with your ancestors
 - Whatever triggered cortisol in your past build neural pathways that alert you to avoid harm today. You can call it stress, anxiety, fear, or panic depending on the intensity, but cortisol makes you feel like something awful will happen if you don't do something now. It's hard to know what turns it on because it's just electricity flowing down a well-developed chain of neurons. But if you pay careful attention to your bad feelings, you can find patterns. That helps you make new decisions about avoiding harm instead of just flowing with old information. Bad feelings may still come because the pathways are still there. But when you know it's an old response to an old threat, you stop seeing evidence to feed it, so the feeling just passes.
-
+- Social isolation is a survival threat in the state of nature. Natural selection created social pain to warn you of a threat to your social bonds the same way that physical pain warns you of a threat to your body.
+- Primates have special neurons that facilitate social bonds. These mirror neurons activate when an individual watches the behavior of others.
+- We do not mirror everything we see in others. Mirror neurons only fire when you watch someone get a reward or face a threat. The firing is much weaker than executing an action yourself. But if you repeatedly watch another person get a reward or face a threat, connections build. You wire yourself to get the reward or avoid the threat in the way that you've seen.
+- Social groups build a shared sense of threat. When you social group feels threatened, you notice. You are free to dismiss the alarm in your own mind. But your group mates may expect you to empathize with their pain pattern. If you don't, your social bonds may be threatened. Your group mates may decide you are not "one of us." They may even see you as the threat. It's not easy being a primate.
+- Nature's outcasts
+	- Animals sometimes eject an individual from the group. The most common examples are deposed alphas and adolescent males. Cortisol spikes in an ostracized animal, and indeed they often perish. Animals fear exclusion so intensely that they typically do what it takes to stay with the group, even when dominated harshly. A mammal will leave the group when it promotes reproduction because the big cortisol surge is offset by a big happy-chemicals surge
+- Social pain is not new to the world, but your brain gives it less attention when you're experiencing hunger, violence, hard labor, and disease. Once you're free from physical pain, as many of us are on a daily basis, social pain grabs your attention. Every possible threat to your social bonds looms large. Anything resembling the social pain of your past will light up your well-paved pathway and turn on your cortisol.
+- Exclusion makes you unhappy, but inclusion does not necessarily make you happy. Once you're in a group, you see others getting what you are not getting. You feel bad, though you hate to admit it. There's a good physical reason for this pervasive source of unhappiness. The first experience in your brain, the circuit at the foundation of your neural network, is the sense that you will die if you don't get attention.
+- Today, you get a vague feeling that you're threatened by anyone you see in the one-up position. You don't think that consciously, but your mammal brain wants to avoid the one-down position as if your life depended on it. And thus it drives you to seek the one-up position, though you'd never consider yourself a one-upper.
+- Your feelings about your status are independent of your socioeconomic circumstances.
+- Status does not come from fixed labels and abstract words. It's the feeling you get when you interact with others. Those feelings change from moment to moment as we go through our day, but they depend heavily on the circuits we've already built.
+- Being special promotes survival in the state of nature. Your mammal brain seeks specialness as if your life depended on it. Whatever made you feel special when you were young triggered happy chemicals that connected neurons. These connections trigger expectations about how to survive. When your expectations about specialness are disappointed, it feels like a survival threat. It's easy to see this in others, but hard to see in yourself. We imagine ourselves having "good reasons" for our motivations, but a quest for specialness does not sound like a "good reason." This leaves us confused about the reasons for our neurochemical ups and downs. Small social disappointments can give you the feeling of grave danger without knowing why. These surges have less power if you know where they come from. Make a habit of noticing the urge to be special, in yourself and in others. Instead of denying this urge, notice your expectations and the unhappiness you feel when your expectations are disappointed. Although it's tempting to condemn yourself for these feelings, you can honor the mammalian energy that kept your ancestors alive.
+- You may feel sure that you're focused on facts and couldn't possibly be so biased. But your brain actually has ten times more neuron telling your eyes what to look for than it has to take things in randomly. That is, ten times more neurons send information from the cortex to the eyes than from the eyes to the cortex. We are designed to scan for inputs we've already experienced as important rather than wasting our attention on whatever comes along.
+- It helps to know how the cortex finds facts that fit expectations.
+- Life is good when it exceeds your expectations, and bad when it falls short of your expectations, so it's important to understand them. Expectations are neural pathways that you electrically activate in anticipation of incoming information. You activate them without conscious intent because your electricity flows where it has flowed before. Your brain is always comparing the neurons activated by your senses to the neurons you've preactivated. When it finds a pattern that matches, you "know" what you are experiencing and whether it is good or bad for you. Your emotions are easier to make sense of when you learn to notice your expectations.
+- A brain can construct an image of a bad world despite abundant evidence of good.
+- You can trigger the strengths you were meant to have when you understand your threat responses
+- The fading of happy chemicals motivates us to keep renewing our survival efforts, but it leaves us curiously vulnerable to frustration. You might blame your frustration on "our society" until you understand its physiology. Your brain is always comparing the world to the early experiences that built your circuits. When you were young, everything was new, so you often experienced things as "the best ever" or "the worst ever." That caused a neurochemical surge big enough to wire in a circuit. But the next time you eat the same pizza, it's not "the best you've ever had." The next time you suffer the same public humiliation, it's not "the worst you've ever had." Life often falls short of your expectations because you built those expectations when the information was new.
+- Old rewards...don't command your brain's attention. Scientists call this habituation.
+- The brain triggers joy when it encounters any new way to meet its needs. New food. New love. New places. New techniques. After a while, the new thing doesn't measure up. "It's not the way I remember it." You may wish you could trade it in for another new thing. But when you understand your brain, you realize the disappointment comes from you rather than the thing itself.
+- When your dopamine dips, you suddenly notice your cortisol so you're more aware of threats. You want the bad feeling to stop so you look for a way to "do something."
+	- Healthy behaviors lead to a dopamine dip as well
+	- Dopamine disappoints whether you've linked it to a healthy or unhealthy way of meeting your needs
+- The act of seeking is more rewarding than you probably realize
+	- Planning a project triggers dopamine
+- Romantic love is perhaps the most familiar example of dopamine disappointment. When people are "in love," they don't realize they are riding high on the dopamine of a long quest. But the same old reward does not excite dopamine forever. It dips, and then unhappy chemicals, get your attention. You may blame the bad feeling on your partner. You may think your partner is "not who she used to be." You may even decide that a new partner would make you happy, because the last partner triggered a surge that built a pathway. But if you seek the excitement of new love all the time, you may create a vicious cycle.
+- When your dopamine droops, it feels like something is wrong with the world, or with you. That disappointment feels less threatening when you know your brain is making way for the new.
+- The great feeling of endorphin always droops in a short time because that promotes survival. Masking pain feels good, but you need to feel your pain in order to take action to relieve it. If you expect constant happiness from endorphin, you will be disappointed
+- When your oxytocin is flowing, it's easier to overlook reminders of past disappointments and betrayals.
+- But when an oxytocin spurt fades, your past disappointments are suddenly more accessible. You can be so alert for threats that you feel attacked by a slight change in tone. Social threats seem to expand when the bubble of oxytocin is gone.
+- You may think good parenting could wire a brain for endless oxytocin. Or that you'd enjoy an endless flow if you were accepted by a particular group. It would be nice to have a safe sense of belonging all the time, and it's tempting to dream of a world that makes this happen for you. But reality keeps falling short of this dream because people are mammals.
+- If your parents put your needs first when you were young, disappointment strikes when you learn that the rest of the world doesn't treat you this way. And if your parents were not worthy of your trust, then you learned about disappointment even earlier. Either way, oxytocin droop is distressing, but it enables young mammals to transfer their attachment from their mother to their peers, and thus to reproduce
+- Every time you distance yourself from the group, your oxytocin falls and reminds you of the threat of isolation
+	- Oxytocin droops when you get too far from the herd. Whether they've left you behind or you've wandered astray, the droop alerts you to the fac that you lack social support
+- When people respect you, serotonin surges and it wires you to expect more good feelings in similar ways.  But after a while, the same old respect doesn't thrill you. You search for a way to get more, using past experiences as your guide. Sometimes you fail to get the respect you seek, despite your best efforts
+- The quest for respect can have positive consequences as well as negative ones, and much human achievement has been fueled by it. But however you attain your badge of status, the good feeling soon passes and you long for a bigger badge of status. When your serotonin dips, it may feel like something is wrong with the world. When you get the badge of status you seek, the world looks right...for a little while
+- Rescuing others is a popular way to seek respect. Making yourself a hero is a relatively reliable way to feel important, and it helps you avoid conflicts that would erode respect. But the good feeling soon passes and you have to rescue again
+- Winning the love of a higher-status person is another widespread strategy of stimulating serotonin. We don't mix love and status consciously, but when a high-status person of the right gender notices you, your brain lights up
+- Serotonin disappointment is often blamed on "our society," but status frustrations are evident in every culture and time
+- Social dominance grabs your attention because it promotes your genes in the statue of nature. As soon as a mammal's immediate needs are met, its thoughts turn to social advancement. This includes everything from promoting the welfare of children to attracting a more powerful mate. Mammals that kept striving instead of being satisfied were more likely to survive and pass on their DNA. This is why we're so unsettled by flabby skin or a child's setbacks. Any small obstacle to getting respect feels like an obstacle to survival
+- If you grew up around people who dominated you, your circuits prepared you for one kind of frustration. But if you grew up with a lot of admirers, you're wired for another kind of frustration. No matter what kind of expectations you're wired for, your quest for respect is disappointed sometimes. Managing that disappointment promotes your survival more than fleeing from it
+- You may protect yourself from serotonin disappointment by saying you don't care about status, but your neurochemicals respond to your status ups and downs whether or not you intend to
+- Distraction is often the core of a happy habit. Distraction can make you feel good just by interrupting the electricity in a bad loop
+- Distraction is not a good survival strategy when action is needed
+- When you brain screams "do something," distraction gives you something to do. It protects you from fueling threatened feelings and rewards you with the sense that you're saving your life
+- You can stop a vicious cycle in one instant, simply by doing nothing. That teaches your brain that you will not actually die without the old habit. You learn that threatened feelings do not kill you. A virtuous circle beings the moment you do nothing and live with the threatened feeling instead of doing the usual something
+- The first steps to happier habits is to do nothing when your cortisol starts giving you a threatened feeling. Doing nothing goes against your body's deepest impulse, but it empowers you to make changes in your life. Once you do nothing, you have time to generate an alternative. At first, no alternative looks as good as the habit does, but positive expectations build if you give a new pathway a chance to grow. Each time you divert your electricity in a new direction, you strengthen your new circuit. It all starts when you accept a bad feeling for a moment instead of rushing to make it go away.
+- A neuron used repeatedly develops a fatty coating called myelin. This coating makes a neuron extremely efficient at conducting electricity, the way insulated wires are more efficient than bare wires. Myelinated circuits make a task feel effortless compared to doing it with slow, naked neurons
+- Myelin also explains why it's hard to unlearn a circuit you'd rather do without. Your white matter is so efficient that you feel inept when you try to do without it. That inept feeling motivates you to return to the old path, even when it's not your best long-term survival choice
+- A synapse is the gap between one neuron and the next
+- You didn't decide consciously which synapses to develop. It happens in two ways:
+	- Repetition, which develops a synapse gradually
+	- Emotion, which develops a synapse instantly
+- Synapses can build without neurochemicals, but it takes a lot of repetition. For example, you can learn romantic words in a foreign language quite quickly, but learning verb conjugations usually requires dreary repetition. Romance triggers neurochemicals that build synapses quickly, but repetition gives you the power to build any synapse you decide is important. If a synapse is activated many times, it gradually learns to transmit an electrochemical signal efficiently, even without extra rowboats in the fleet
+- Emotions are chemical molecules that can change a synapse immediately and permanently
+- When patterns in the world match the patterns in your synapses, electricity flows and you feel like you know what's going on
+- Neurons that aren't used begin to wither in the brain of a two-year-old. That enhances intelligence, surprisingly
+- When the world doesn't fit your developed circuits, your electricity trickles so you have less confidence in your knowledge
+- Each neuron can have many synapses because it can have many branches, or dendrites. New dendrites grow when there's a lot of electrical stimulation. As dendrites grow toward hot spots of electrical activation, they may get close enough for electricity to jump the gap. Thus a new synapse is born. When this happens, you have a connection between two ideas.
+- Five ways experience changes your brain
+	- Experience insulates young neurons with myelin, so they're superfast conductors of electricity
+	- Experienced synapses are better at sending electricity to neighboring neurons, so you're better at lighting up a path you've lit before
+	- Neurons atrophy if they're not used, so you rely more heavily on the neurons you've used
+	- New synapses grow between neurons you use, so you make connections
+	- Receptors grow and atrophy, so it's easier to process the feelings you experience repeatedly
+- When a receptor is not used for a while, it disappears, which leaves space for any new receptors you may need. Flexibility is good, but it also means that you must use your happy receptors or lose them
+- When the information reaching your senses turns on your brain chemicals, it gets your attention. That's the job these chemicals evolved to do. You are always deciding whether to "go with the flow" or divert your electricity elsewhere. You either act on your neurochemical impulse or generate an alternative. Then you decide whether to act on the alternative. You go for it if it stimulates happy chemicals. If not, you generate another alternative. This is how your separate brain parts work together. Your cortex comes up with options and your limbic brain responds to them as good for you or bad for you. You do this so efficiently that you hardly notice 
+- Electricity flows through your neural pathways, but you always have the power to redirect the flow. This is the core of your free will.
+- For example, if my husband does something that gets on my nerves, I could allow myself to dwell on it. Then my circuits would spark, my chemicals would gush, and I could tell myself he is causing the fireworks. But I am free in every moment to shift my attention elsewhere.
+- Your attention is limited. If you invest it in one place, you have less to invest in alternatives. It takes little attention to follow a familiar path, but shifting to the unfamiliar makes heavy demands on your attention. You have to juice up the weak signals to make sense of them, which leaves you less electricity for other efforts. You are always deciding which use of your electricity best promotes your survival.
+- People often complain that "we don't learn from experience," but we do - it just may not be in the way you imagine. Experiences that are neurochemical or repeated build circuits that endure. Experiences in youth build supercircuits.
+- Childhood frees an organism from the burden of meeting its needs so it can learn to meet its needs gradually by interacting with its environment. Animals with short periods of early dependency need inborn survival skills, so they can only survive in the ecological niche of their ancestors. They typically die outside that niche. Humans are born ready to adapt to whatever niche they're born into. But once you build those adaptations, you're designed to rely on them as if your life depends on it. This is why it's hard to unlearn a happy-chemical strategy once you've learned it
+- We don't usually associate childhood with survival skills. Afterall, children don't learn how to get a job with good benefits, or a mate that will impress your friends. We often presume childhood habits have nothing to do with adult life. But early experience tells you how to feel good and avoid feeling bad, and that is the navigation system that pilots a brain through adult challenges
+- Sophisticated adults don't imagine themselves navigating with childhood circuits, but if you examine your likes and dislikes, you will see where they came from.
+- You can experiment with alternatives before you commit for forty-five days. But if you keep starting over, your new habit will never build. After a few test runs, you need to keep repeating your new habit whether or not it feels good
+- New Dopamine Habits
+	- Celebrate small victories
+		- You have some success every day, so commit to finding it and say, "I did it!"
+	- No success is too small
+		- Do not undermine your good feeling by apologizing to yourself for the triviality of the accomplishment. Just enjoy the split second of triumph and move on. It's just a spark, but if you ignite it every day, you will be your own best spark plug
+	- Take small steps toward a new goal
+		- It doesn't take much time or money to step toward a goal. Just commit ten minutes a day and you will feel momentum instead of feeling stuck
+	- Take action, don't just daydream
+		- Spend your time on concrete action. Don't spend it fantasizing about quitting your day job or pressuring others to help you. It's not their goal. Dig into practical realities instead. Do this faithfully for forty-five days and you will have the habit of moving forward.
+	- Divide an unpleasant task into small parts
+	- Keep adjusting the bar
+		- Good feelings flow when the level of challenge you face is "just right"
+		- For forty-five days, experiment with lowering the bar in areas where you have set yourself impossible goals and raising the bar in places where you've set it so low that you feel no reward.
+- New Endorphin Habits
+	- Laugh
+		- Laughing stimulates endorphin as it spontaneously convulses your innards. Find out what makes you laugh, and make time for it
+	- Cry on occasion
+		- Crying releases endorphin because of the physical exertion. I do not suggest making a habit of crying - it comes with a lot of cortisol too. But most adults habitually squelch the urge to cry, and that creates tension. Unsquelching relieves the tension. A few minutes of crying can relieve a bad feeling that you've squelched for years.
+	- Exercise differently
+		- Varying your exercise routine is a good way to trigger endorphin. It takes strain to trigger endorphin, and if you keep straining the same place, you risk injury. If you work new places with new exercise, moderate exertion can stimulate endorphin
+	- Stretch
+		- Endorphin is also stimulated when you stretch.
+	- Make exercise fun
+		- Consider switching to a fun exercise for forty-five days. An exercise that triggers your happy chemicals helps motivate you toward more vigorous exertion
+- Building New Oxytocin Circuits
+	- Build on "proxy" trust
+		- Social trust is hard to create, so people often use proxies. Animals, crowds, and digital friends are proxies that can stimulate good feelings of social trust without the complications of human bonds. The oxytocin is less than with live personal contact, of course. But proxies can expand the foundation for future trust
+	- Place stepping stones
+		- Intermediate steps build trust gradually. The stepping stones can be placed so close together that neither party risks a big betrayal. Each step need only create positive expectations about the next step rather than resolve the whole problem. Each small experience of trust stimulates the good feeling of oxytocin, which connects neurons that help trigger more.
+		- For forty-five days, craft reciprocal exchanges that build stepping stones toward trust with difficult people. You can't predict the results since you can't control others. But you will expand your sense of control over the trust bonds in your life. This is hard work, and it may not feel good in the short run. But in the long run, it builds confidence that you can do something about those thorns in your side.
+	- Be trustworthy
+		- When other people trust you, it feels good whether or not you trust them
+		- Handle this strategy with care - you do not want to be the rescuer of everyone you know forty-five days from now
+		- Do not spend a lot of time seeking approval. Simply honor your commitments, and then pause to enjoy being a person who honors her commitments.
+	- Create a trust verification system
+		- You can practice the old adage "trust, but verify." Monitor results. Count your change. Check up on people. That may sound harsh, but verifying makes it possible to develop trust with strangers. If you're too nice to verify, you get stuck inside the safe harbor of people you already trust
+		- To venture beyond, you have to interact with people whose trustworthiness is unknown
+		- Do not grow your circle by trusting people who are not trustworthy. The goal is not to trust as an end in itself, but to gather information about good places to trust. You succeed whether or not the other person shortchanges you, because you build trust in your own verification plan. Celebrate that each day, whether your trust is rewarded or disappointed.
+	- Get a massage
+- Building New Serotonin Circuits
+	- Express pride in what you've done
+		- Pride is complicated.
+		- You can applaud yourself, but the brain is not easily tricked by hollow self-respect. It wants respect from others because that has survival value. Alas, there is no guaranteed safe way to get this serotonin boost.
+		- But you can stimulate your serotonin, without being "a jerk." Simply express pride in something you've done once a day
+		- Pride is a rudder that helps you navigate opportunities to get social recognition
+		- Taking pride in yourself means more than just thinking it silently. It means daring to say, "Look what I did!" to another living soul
+		- Keep at it
+			- Many of the people we admire today got little respect while they were alive, but they kept working anyway. Do not assume that people who accomplish things have perpetual cheering squad. It would be nice if that adulation just came to you, but keep going if it doesn't
+		- Whether you get a lot of social regard or a little, your brain will keep longing for it. That's what your mammal brain does. And that's why you need the skill of taking pride in your own accomplishments instead of waiting around for applause
+	- Enjoy your social position in each moment
+		- Believe it or not, your social position changes constantly
+		- You can learn to enjoy the advantages of wherever you are instead of focusing on the frustrations
+		- You will be much happier if you relax and enjoy whenever you find yourself
+	- Notice your influence
+		- You can make a small change that stimulates your serotonin without the harmful side effect. Simply enjoy your influence on others
+		- Don't expect credit or even a thank you. Just quietly enjoy
+		- This may sound arrogant, but every mammal brain longs for social significance
+		- If you don't meet the need in healthy ways, you will be tempted to meet it in ways that hurt
+		- Value the impact you already have
+		- Stop once a day to appreciate your good effect on others. Don't call attention to it or say "I told you so." Simply look for your subtle influence and feel satisfied
+	- Make peace with something you can't control
+		- Your brain looks for things you can control and feels good when you're in charge. But our control is often limited and unpredictable, so frustration percolates. You can learn to feel comfortable with your limited control. That doesn't mean being out of control or giving up. It means feeling safe when you're not in charge
+- New goals sound great, but once you start slogging toward then, well-paved neural highways may tempt you. You can build a new highway if you slog for forty-five days. Exciting destinations will become accessible, so your old roads will be less tempting
+- To establish a new trail through your jungle of neurons, you must repeat a new behavior every day. Otherwise, the undergrowth will return and your next pass will be just as hard as the first. Spark your new trail each day whether or noy you feel like it, and you will eventually pass it with ease. You may not het the highs of your old happy habit, but you will learn to feel good without artificial highs and their inevitable side effects. You will be so pleased with your new habit that you will want to build another, and another.
+- The first step is a willingness to do things that don't feel good at first
+- Your accidental circuits cause the threatened feeling you get when you depart from the road you know. If you avoid the threatened feeling by sticking to the old road, you miss out on a universe of potential happiness. You can learn to enjoy the challenge of embarking on a new road
+- With so many choices and so many neurons, you can build a lot of new pathways to your happy chemicals. But you only have a limited amount of time and energy. If you spread it everywhere, a new road may not get built. So choose one remodeling project to start with. Commit to repeating it for forty-five days whether or not you feel like it. If you miss a day, start over with Day One.
+- Model "feeling good" for others
+	- If you give yourself permission to feel good, it can actually help others. It can trigger their mirror neurons and spark their happiness. But you cannot make yourself feel good just for the sake of others. Your brain doesn't work that way; it focuses on you. You must step towards your needs to stimulate your happy chemicals
+- Consider this
+	- When things do go wrong, ask yourself whether you could have prevented it by being unhappy
+- Knowledge is power
+	- When your happy chemicals droop, it feels like something is wrong with the world. It helps to know that your happy chemicals are meant to go up and down so you can focus on your next step toward happy chemicals instead of on the flaws of the world
+- When you stop believing that the system can make you happy, you are stuck with the awful prospect of doing it yourself
+- Circuit training for your brain
+	- Mirror
+		- Mirror people who already have the habits you want. Find someone with a habit you'd like to create, and watch them. Your mirror neurons will light up and spark your circuits
+	- Balance
+		- Your brain wants all four of the happy chemicals
+	- When you depend on one happy chemical more than others, you don't know what's missing because you equate happiness with the kind you already have. So try a project from each of the four happy chemicals. It's not easy, but your brain will thank you.
+	- Different kinds of balance
+		- Balancing your neurochemistry is not the same as "work-life balance." It's true that spending too much time at work can lead to neglect of other needs. But if you leave work to run the same circuits in your free time, neurochemical balance will not happen. If you manage your home the way you manage your work, free time won't make you happier. It's like a vegetarian trying to balance with a new vegetable, or an athlete balancing with a new sport. You keep seeking rewards in familiar places until you discover new places
+	- Graft
+		- Grafting is also a good way to balance your neurochemicals. You can spark the happy chemical that's difficult for you by grating onto an activity you love
+		- New happy-chemical pathways are easier to spark when you build on existing roots
+	- Energy
+		- Your brain only has a limited amount of energy. You can enhance it with exercise, sleep, and good nutrition, but it will still be limited. New behaviors consume more energy than you expect. When you commit to a forty-five day rewiring project, you commit to making that energy available. If you run out of energy before meeting your daily commitment, you will find reasons to ditch it. So make your new habit the top-priority use of your energy for forty-five days, even if you have to relax another priority
+		- One way to ensure energy is to schedule your new habit first thing in the morning
+	- Legacy
+		- Anything connected to your DNA triggers happy chemicals
+		- You may say genes don't matter, but your brain has a curious way of perking up when they're involved
+		- There are infinite ways to satisfy your mammal brain's quest for a legacy
+		- When something of you can live on, it's strangely effective at triggering happy chemicals
+	- Fun
+		- Repetition is easier to tolerate if you can make it fun
+	- Chunk
+		- The brain is always dividing things into chunks because it can only process a few inputs at a time
+	- Satisfice
+		- The urge to make the most of life is natural, but if you're always optimizing, you're never happy
+		- Feeling good about the satisfactory solution stops you from wasting energy on a protracted search who marginal benefits will not exceed marginal costs
+	- Plan
+		- Build a new circuit before you need it
+		- Planning is also a good way to relieve unhappy chemicals. Instead of worrying all day, plan to worry while brushing your teeth. If that's not enough, plan to worry while you floss too
+	- Visualize
+- These tools will help you train your brain
+	- Mirror: find someone with the habit you want and mirror them
+	- Balance: develop the happy chemicals you're not already best at
+	- Graft: build new happy circuits onto old happy roots
+	- Energy: save your energy for touch challenges
+	- Legacy: preserve your unique individual essence to please your inner mammal
+	- Fun: fund the fun in a new behavior and you will repeat it
+	- Chunk: divide difficult challenges into smaller parts
+	- Satisfice: a satisfactory solution may be better than an endless quest for optimal
+	- Plan: start building circuits now so they're ready when you need them
+	- Visualize: your neural pathways are building even though they're not visible
+- Your brain builds expectations about what will make you happy and it sees the world through the lens of those expectations
+- If you decide to be happy, your brain will find things to be happy about. You will still have frustrations and disappointments, but you will find ways to make yourself happy anyway. If your happy pathways don't spark themselves, you will find healthy ways to crank them up.
+	- You can do this right now
+	- No one is stopping you
+	- No one can do it for you
+	- And you cannot do it for someone else
+- It's not easy to manage this brain we've inherited from our ancestors. It's the challenge that comes with the gift of life
 #### Stats:
 **Started:** December 28, 2024 | **Finished:** January 8, 2025 | **Time read:** 210 min

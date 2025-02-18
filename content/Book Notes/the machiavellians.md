@@ -4,10 +4,8 @@ draft: false
 tags: 
 aliases:
 ---
-*currently reading*
-
 ## My quick summary
-- *to be filled out*
+- You can be a political scientist by studying past civilizations, and the one thing that stands out is the human population is separated into 2 categories: the rulers and the ruled, or people who covet power and people who don't have time to think about it. So far, the human society construct that has led to the most freedom is one where the rulers are continuously cycled so that power doesn't get entrenched and the rulers are acting selfishly in their interest, which also coincides with the ruled's interests. Essentially, it gives more data to my statement that the best society is a benevolent dictatorship, and then a republican democracy.
 
 ### Ratings
 - **Reading difficulty:** dense material
@@ -20,4 +18,4 @@ aliases:
 - *to be filled out*
 
 #### Stats:
-**Started:** January 23, 2025 | **Finished:** x | **Time read:** 180 min so far
+**Started:** January 23, 2025 | **Finished:** February 16, 2025 | **Time read:** 570 mins

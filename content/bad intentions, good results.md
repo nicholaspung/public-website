@@ -24,7 +24,7 @@ Here are the rankings of this "intention" and "results" 2x2 matrix on what I sup
 	- See what can be changed to make it better
 	- Continue doing as is
 
-The paraphrase "the ends justify the means" by Niccolò Machiavelli falls to the #2 choice for me. My #1 choice would be I'd rather people who wants to do good things get the good outcome.
+The paraphrase "the ends justify the means" by Niccolò Machiavelli falls to the #2 choice for me. My #1 choice would be I'd rather people who want to do good things get the good outcome.
 
 The question for you to think about is:
 - If a person has bad intentions, but for some reason, it leads to good results, do you accept it? And if they continually have bad intentions, but it keeps leading to good results, what happens?

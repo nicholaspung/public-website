@@ -1,0 +1,29 @@
+---
+title: Missed (potential) connection
+draft: false
+tags: 
+aliases:
+---
+February 2nd, 2025
+
+This is probably going to be a sad admission of a "missed connection," but really it was that I had decided in my mind that I would rather choose a missed (potential) connection than face the chance of being rejected (unfortunately for my feelings).
+
+Here's the story:
+
+I was meeting up with 3 of my friends to get some lunch at one of the restaurants they liked around the area, and then 1 friend would go to their appointment, while the other 2 would help me do a photoshoot for my online dating profile. I got to the restaurant early, and there was a sizable line out the restaurant. I stood in line, but noticed a sign saying to sign up to the waitlist, so I decided to go do that and got on the waitlist by going into the restaurant and asking the host. Afterwards, I walked to the back of the building for some shade as the sun was shining down hard. After being on my phone for a while, 1 of my friends said they were close to being here, so I walked back to the line to wait for them. It was pretty hot, and I was wearing a long sleeve, so I was standing there in a "power pose" because that was the best way for me to feel less hot (does it make sense? No, but it is what it is). That's when I noticed the girl in front of me.
+
+She was pretty cute, but it looked like she was waiting for someone, so I just stood there looking at my phone, waiting for my friends to say they were here. Then the girl asks me a question about the line, and I told her that she had to get on the waitlist first, which she didn't do. So she went into the restaurant to put her name on the waitlist. And then she came back and we struck up a conversation. I learned that her name started with a "S", she was Korean, and she lived on the west side. She learned that I was Chinese, I didn't know why this restaurant was super popular, and that I only came here because my friends wanted to try it out. She said she found this place because it was popular on TikTok and that the sesame noodles and pork belly rice was popular. As we were talking, I realized I enjoyed our conversation, but then her friend came over. "S" introduced me to her friend, "M" (I do remember her name, but that's because her name overrode "S"'s name unfortunately in my brain...). I noticed that "M" didn't seem to want to talk to me, so then I just stopped talking to "S" and they had their own conversation. Then my friend came and I started talking with her. Then "S" and "M" left the line and went somewhere else, but before they left, "S" waved bye to me, and I waved back.
+
+Now here's the part of the story where I unconsciously decide that this was a missed connection.
+
+When "S" left, I told myself and my friend that I missed out on a connection, and then eventually our other 2 friends joined us and we waited for our place in line. Then eventually it was almost our turn, so we waited in front of the restaurant in the shade, and "S" and "M" walked back, and "S" noticed me and waved to me, as they went back in line waiting to get into the restaurant in the sun. My friends and I then go into the restaurant because it was our turn, and then turns out "S" and "M" almost chose the table next to the table my friends and I were eating at. Then I decide that I was too chicken to say "hi" and ask for "S"'s phone number. Then my friends start leaving the restaurant, and I left without looking at "S" because I was too chicken and ashamed of what I had decided to do, which was nothing.
+
+So, why am I writing about this?
+
+All in all, this is a story that I'm writing down to make myself remember how I felt throughout the entire day afterwards - extremely frustrated at myself for not taking a chance and maybe facing rejection (although clearly after I re-wrote this story to the best of my ability, I'm 99% certain I wouldn't have been rejected...). A silver lining is that I was explaining what happened to my friends about this that day, and I realized that they would have supported me if I wanted to step away and continue talking with "S," which I didn't know and I really appreciate them. One of them even said they would stalk social media to try and find "S" for me, which is a very nice sentiment that I appreciate.
+
+So now, what do I do about this? I've decided that I'm going to face this constant pull to be a social recluse and be more social again. I also want to learn how to face rejection so that it becomes a normal occurrence for me. I want to override my usual behaviors of not doing anything, even when I'm being handed such a welcoming hand, and that means I need to practice getting out there and just talking with people, regardless if I want to or not.
+
+My goal from today on is to start socializing more, which means I'm going to be putting myself out there, with the goal of meeting more people, learning more social skills, asking uncomfortable questions, and putting myself out there and facing the unknown. I will go do one of my favorite activities, bouldering, and start talking to random people at the gym. I will meet new people and start a social group of like-minded people, possibly by hosting events again. I will be better so that the next time this happens, I won't fumble hard like I did this day. This is my declaration to the world that I will be open to new experiences once more and flood myself with experiences, rather than expose myself slowly.
+
+*I won't lie though. One of the goals of this is to hopefully see "S" and apologize for being such a coward, and to let her know that I did find her attractive and would have liked to have gone on a date with her to see if we would be good for each other. But don't tell anyone this, especially me because ego won't like it.*
