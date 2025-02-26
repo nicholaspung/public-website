@@ -1,6 +1,6 @@
 ---
 title: Missed (potential) connection
-draft: false
+draft: true
 tags: 
 aliases:
 ---
@@ -25,5 +25,3 @@ All in all, this is a story that I'm writing down to make myself remember how I 
 So now, what do I do about this? I've decided that I'm going to face this constant pull to be a social recluse and be more social again. I also want to learn how to face rejection so that it becomes a normal occurrence for me. I want to override my usual behaviors of not doing anything, even when I'm being handed such a welcoming hand, and that means I need to practice getting out there and just talking with people, regardless if I want to or not.
 
 My goal from today on is to start socializing more, which means I'm going to be putting myself out there, with the goal of meeting more people, learning more social skills, asking uncomfortable questions, and putting myself out there and facing the unknown. I will go do one of my favorite activities, bouldering, and start talking to random people at the gym. I will meet new people and start a social group of like-minded people, possibly by hosting events again. I will be better so that the next time this happens, I won't fumble hard like I did this day. This is my declaration to the world that I will be open to new experiences once more and flood myself with experiences, rather than expose myself slowly.
-
-*I won't lie though. One of the goals of this is to hopefully see "S" and apologize for being such a coward, and to let her know that I did find her attractive and would have liked to have gone on a date with her to see if we would be good for each other. But don't tell anyone this, especially me because ego won't like it.*

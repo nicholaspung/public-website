@@ -1,6 +1,6 @@
 ---
 title: Life Partner Resume
-draft: false
+draft: true
 tags: 
 aliases:
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Way of the Superior Man by David Deida
+title: The Four Agreements by Don Miguel Ruiz
 draft: false
 tags: 
 aliases:
@@ -17,4 +17,4 @@ aliases:
 - **to be filled out**
 
 #### Stats:
-**Started:** February 16, 2025 | **Finished:** February 20, 2025 | **Time read:** 180 min
+**Started:** February 22, 2025 | **Finished:** x | **Time read:** x min

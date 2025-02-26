@@ -15,3 +15,4 @@ How do you know when a person has changed their mind? When their actions start c
 Books:
 - [[habits of a healthy brain]] 
 - [[the courage to be disliked]]
+- [[awareness]]
