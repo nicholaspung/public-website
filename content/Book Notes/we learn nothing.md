@@ -1,5 +1,5 @@
 ---
-title: The Four Agreements by Don Miguel Ruiz
+title: We Learn Nothing by Tim Kreider
 draft: false
 tags: 
 aliases:
@@ -17,4 +17,4 @@ aliases:
 - **to be filled out**
 
 #### Stats:
-**Started:** February 22, 2025 | **Finished:** February 23, 2025 | **Time read:** x min
+**Started:** March 8, 2025 | **Finished:** x | **Time read:** x min

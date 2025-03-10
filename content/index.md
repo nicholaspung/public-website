@@ -13,6 +13,8 @@ Around 2015-2018, I read hundreds of books, but never took notes or kept track o
 
 I'm also writing random thoughts, that will undergo editing as I have conversations with others. Feel free to bring up any of the topics I write about and ask me to clarify or have me listen to you in person! 
 
+(Also working on a web application, stay tuned for initial release hopefully end of Q1 2025.)
+
 ## Favorite quotes
 > "There are no solutions, only trade-offs." - Thomas Sowell
 

@@ -1,5 +1,5 @@
 ---
-title: The Four Agreements by Don Miguel Ruiz
+title: Peak by Anders Ericsson
 draft: false
 tags: 
 aliases:
@@ -17,4 +17,4 @@ aliases:
 - **to be filled out**
 
 #### Stats:
-**Started:** February 22, 2025 | **Finished:** February 23, 2025 | **Time read:** x min
+**Started:** February 27, 2025 | **Finished:** x | **Time read:** x min
