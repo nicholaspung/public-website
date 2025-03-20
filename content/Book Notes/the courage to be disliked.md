@@ -151,6 +151,38 @@ aliases:
 - "You can lead a horse to water, but you can't make him drink."
 - Forcing change while ignoring the person's intentions will only lead to an intense reaction
 - You are the only one who can change yourself
+- Actually, with families there is less distance, so it's all the more necessary to consciously separate the tasks
+- Look, the act of believing is also the separation of tasks. You believe in your partner; that is your task. But how that person acts with regard to your expectations and trust is other people's tasks
+- Intervening in other people's tasks and taking on other people's tasks turns one's life into something heavy and full of hardship. If you are leading a life of worry and suffering - which stems from interpersonal relationships - learn the boundary of "From here on, that is not my task." And discard other people's tasks. That is the first step toward lightening the load and making life simpler.
+- All you can do with regard to your own life is to choose the best path that you believe in. On the other hand, what kind of judgment do other people pass on that choice? That is the task of other people, and is not a matter you can do anything about
+- Why are you worried about other people looking at you, anyway? Adlerian psychology has an easy answer. You haven't done the separation of tasks yet. You assume that even things that should be other people's tasks are your own. Remember the words of the grandmother: "You're the only one who's worried how you look."
+- First, one should ask, "Whose task is this?" Then do the separation of tasks. Calmly delineate up to what point one's own tasks go, and from what point they become another person's tasks. And do not intervene in other people's tasks, or allow even a single person to intervene in one's own tasks. This is a specific and revolutionary viewpoint that is unique to Adlerian psychology and contains the potential to utterly change one's interpersonal relationship problems
+- As Adler says, "Children who have not been taught to confront challenges will try to avoid all challenges."
+- "Freedom is being disliked by other people."
+- It is proof that you are exercising your freedom and living in freedom, and a sign that you are living in accordance with your own principles
+- Unless one is unconcerned by other people's judgments, has no fear of being disliked by other people, and pays the cost that one might never be recognized, one will never be able to follow through in one's own way of living. That is to say, one will not be able to be free
+- Don't be afraid of being disliked
+- The courage to be happy also includes the courage to be disliked. When you have gained the courage, your interpersonal relationships will all at once change into things of lightness
+- In Adlerian psychology, physical symptoms are not regarded separately from the mind (psyche). The mind and body are viewed as one, as a whole that cannot be divided into parts
+- This sense of others as comrades, this awareness of "having one's own refuge," is called "community feeling."
+- Community feeling is also referred to as "social interest," that is to say, "interest in society."
+- It is "you and I." When there are two people, society emerges in their presence, and community emerges there too. To gain an understanding of the community feeling that Adler speaks of, it is advisable to use "you and I" as the starting point
+- A way of living in which one is constantly troubled by how one is seen by others is a self-centered lifestyle in which one's sole concern is with the "I."
+- First of all, each of us is a member of a community, and that is where we belong. Feeling that one has one's own place of refuge within the community, feeling that "it's okay to be here," and having a sense of belonging - these are basic human desires. Whether it is one's studies, work, or friendships, or one's love or marriage, all these things are connected to one's search for places and relationships in which one can feel "it's okay to be here."
+- You are a part of a community not its center
+- All of us are searching for the sense of belonging, that "it's okay to be here." In Adlerian psychology, however, a sense of belonging is something that one can attain only by making an active commitment to the community of one's own accord, and not simply by being here
+- One takes steps forward on one's own, without avoiding the tasks of the interpersonal relations of work, friendship, and love. If you are "the center of the world," you will have no thoughts whatsoever regarding commitment to the community; because everyone else is "someone who will do something for me," and there is no need for you to do things yourself. But you are not the center of the world, and neither am I. One has to stand on one's own two feet, and take one's own steps forward with the tasks of interpersonal relations. One needs to think not, What will this person give me? but rather, What can I give to this person? That is commitment to the community
+- A sense of belonging is something that one acquires through one's own efforts - it is not something one is endowed with at birth. Community feeling is the much-debated key concept of Adlerian psychology
+- Though this might be termed a "you and I" relationship, if it is one that can break down just because you raise an objection, then it is not the sort of relationship you need to get into in the first place. It is fine to just let go of it. Living in fear of one's relationships falling apart is an unfree way to live, in which one is living for other people.
+- Do not cling to the small community right in front of you. There will always be more "you and I," and more "everyone," and larger communities that exist.
+- In Adlerian psychology, we take the stance that in child-rearing, and in all other forms of communication with other people, one must not praise
+- Physical punishment is out of the question, of course, and rebuking is not accepted, either. One must not praise, and one must not rebuke. That is the standpoint of Adlerian psychology
+- In the act of praise, there is the aspect of it being "the passing of judgment by a person of ability on a person of no ability."
+- When one person praises another, the goal is "to manipulate someone who has less ability than you." It is not done out of gratitude or respect
+- Whether we praise or rebuke others, the only difference is one of the carrot or the stick, and the background goal is manipulation. The reason Adlerian psychology is highly critical of reward-and-punishment education is that its intention is to manipulate children
+- One wishes to be praised by someone. Or conversely, one decides to give praise to someone. This is proof that one is seeing all interpersonal relationships as "vertical relationships."
+- Adlerian psychology refutes all manner of vertical relationships and proposes that all interpersonal relationships be horizontal relationships. In a sense, this point may be regarded as the fundamental principle of Adlerian psychology
+- Equal, that is to say, horizontal
 
 #### Stats:
 **Started:** January 18, 2025 | **Finished:** January 23, 2025 | **Time read:** x min

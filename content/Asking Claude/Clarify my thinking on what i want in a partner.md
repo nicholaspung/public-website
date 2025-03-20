@@ -1,5 +1,5 @@
 ---
-title: Asking Claude to Clarify My Thinking on What I Want in a Partner
+title: Clarify My Thinking on What I Want in a Partner
 draft: false
 tags: 
 aliases:
@@ -36,3 +36,12 @@ Conclusion by Claude:
 > 	7. Daily habits of checking in, showing interest, and making each other feel seen
 > 	8. Mutual respect for individuality and existing relationships
 > 	9. Building a bank of shared experiences (travel, learning new skills together, etc.)
+
+Questions to ask myself (from Reddit):
+1. If someone told you you are a lot like your partner, would that be a compliment to you?
+2. Are you truly fulfilled, or just less lonely?
+3. Are you able to be unapologetically yourself, or do you feel the need to show up differently to please your partner?
+4. Are you in love with who your partner is right now as a whole, or are you only in love with their good side, their potential or the idea of them?
+5. Would you want your future or imagined child to date someone like your partner?
+
+"If you find a girl who believes in your dreams more than you do, how makes you want to be a better man, who's willing to work alongside you to get there, and is grateful for whatever you have, just marry her." - Alex Hormozi

@@ -9,6 +9,8 @@ Welcome to my digital brain! Here you'll find random thoughts and notes I've tak
 ## Now, now, now
 I currently work at a large tech company where I build internal tools. On the side, I also work on personal coding projects, that are essentially glorified Excel sheets with a better UI. 
 
+- [[daily reflections|Daily Reflections]] application
+
 Around 2015-2018, I read hundreds of books, but never took notes or kept track of them, so in 2025, I've decided to keep track in my [[reading list]].
 
 I'm also writing random thoughts, that will undergo editing as I have conversations with others. Feel free to bring up any of the topics I write about and ask me to clarify or have me listen to you in person! 

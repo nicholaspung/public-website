@@ -20,6 +20,7 @@ Next book on the list
 - The Courage to be Happy by Ichiro Kishimi and Fumitake Koga
 - Knowledge and Decisions by Thomas Sowell (audiobook)
 - The Cultural Revolution by Frank Dikottler (audiobook)
+- The Full Facts Book of Cold Reading by Ian Rowland
 
 Paused
 - Subliminal by Leonard Mlodinow
