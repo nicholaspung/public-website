@@ -1,5 +1,5 @@
 ---
-title: We Learn Nothing by Tim Kreider
+title: The Courage to be Happy by Ichiro Kishimi and Fumitake Koga
 draft: false
 tags: 
 aliases:
@@ -17,4 +17,4 @@ aliases:
 - **to be filled out**
 
 #### Stats:
-**Started:** March 8, 2025 | **Finished:** March 22, 2025 | **Time read:** ? min
+**Started:** March 23, 2025 | **Finished:** x | **Time read:** x min

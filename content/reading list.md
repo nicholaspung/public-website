@@ -9,27 +9,32 @@ Highly recommend books to read:
 2. Poor Charlie's Almanack by Charles T. Munger
 3. [[the machiavellians]]
 4. [[awareness]] / [[the four agreements]]
+5. How to Win Friends and Influence People
+6. The Midnight Library
 
 In progress
-- [[awareness]]
-- Shadow Divers by Robert Kurson (audiobook)
-- [[we learn nothing]]
+- [[the courage to be happy]]
+- [[peak]]
 - Operation Paperclip by Annie Jacobsen (audiobook)
 
 Next book on the list
-- The Courage to be Happy by Ichiro Kishimi and Fumitake Koga
 - Knowledge and Decisions by Thomas Sowell (audiobook)
 - The Cultural Revolution by Frank Dikottler (audiobook)
-- The Full Facts Book of Cold Reading by Ian Rowland
 
 Paused
 - Subliminal by Leonard Mlodinow
-- [[peak]]
+- Shadow Divers by Robert Kurson (audiobook)
 
 Books finished with single sentence learnings
-- March 2025
+- May 2025 (3)
+	- The Midnight Library by Matt Haig, May 6, 2025
+	- How to Win Friends and Influence People by Dale Carnegie, May 5, 2025
+	- The Surrender Experiment by Michael A. Singer, May 8, 2025
+- March 2025 (3)
 	- Stalin's War by Sean McMeeklin (audiobook)
 		- President Franklin D. Roosevelt had a man crush on Joseph Stalin, one of the worst people who have ever lived in our current era, and essentially funded the entire current political landscape we have, which makes you think about what would have happened if Roosevelt didn't give Stalin free weapons, trade secrets, and essentially free money with no strings attached...
+	- - [[awareness]]
+	- - [[we learn nothing]]
 - February 2025 (7)
 	- The Know-It-All by A. J. Jacobs (audiobook)
 		- Entertaining journey of reading through the entire Encyclopedia Britannica without really much pay out afterwards for the author

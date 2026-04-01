@@ -183,6 +183,77 @@ aliases:
 - One wishes to be praised by someone. Or conversely, one decides to give praise to someone. This is proof that one is seeing all interpersonal relationships as "vertical relationships."
 - Adlerian psychology refutes all manner of vertical relationships and proposes that all interpersonal relationships be horizontal relationships. In a sense, this point may be regarded as the fundamental principle of Adlerian psychology
 - Equal, that is to say, horizontal
+- In the first place, the feeling of inferiority is an awareness that arises within vertical relationships. If one can build horizontal relationships that are "equal but not the same" for all people, there will no longer be any room for inferiority complexes to emerge.
+- It is necessary to offer assistance that does not turn into intervention
+- What is the difference between intervention and assistance?
+- So intervention is this kind of intruding on other people's tasks and directing them by saying things like "You have to study" or "Get into that university." Whereas assistance, on the other hand, presupposes the separation of tasks, and also horizontal relationships.
+- ...one neither praises nor rebukes. This kind of assistance, which is based on horizontal relationships, is referred to in Adlerian psychology as "encouragement."
+- When one is not following through with one's tasks, it is not because one is without ability. Adlerian psychology tells us that the issue he is not one of ability but simply that "one has lost the courage to face one's tasks." And if that is the case, the thing to do before anything else is to recover that lost courage.
+- Being praised is what leads people to form the belief that they have no ability
+- When receiving praise becomes one's goal, one is choosing a way of living that is in line with another person's system of values
+- The most important thing is to not judge other people. "Judgment" is a word that comes out of vertical relationships. If one is building horizontal relationships, there will be words of more straightforward gratitude and respect and joy.
+- Being praised essentially means that one is receiving judgment from another person as "good." And the measure of what is good or bad about that act is that persons' yardstick.
+- "Thank you," on the other hand, rather than being judgment, is a clear expression of gratitude. When one hears words of gratitude, one knows that one has made a contribution to another person
+- ...in Adlerian psychology, a great deal of emphasis is given to "contribution."
+- In Adler's view, "It is only when a person is able to feel that he has worth that he can possess courage."
+- It is when one is able to feel "I am beneficial to the community" that one can have a true sense of one's worth. This is the answer that would be offered in Adlerian psychology.
+- That one can act on the community, that is to say, on other people, and that one can feel "I am of use to someone." Instead of feeling judged by another person as "good," being able to feel, by way of one's own subjective viewpoint, that "I can make contributions to other people."
+- It is about having concern for others, building horizontal relationships, and taking the approach of encouragement. All these things connect to the deep life awareness of "I am of use to someone," and in turn, to your courage to live
+- So instead of thinking of oneself on the level of acts, first of all one accepts oneself on the level of being
+- Adler's reply was the following: "Someone has to start. Other people might not be cooperative, but that is not connected to you. My advice is this: you should start. With no regard to whether others are cooperative or not."
+- "People can be of use to someone else simply by being alive, and have a true sense of their worth just by being alive."
+- Does one build vertical relationships, or does one build horizontal relationships? This is an issue of lifestyle, and human beings are not so clever as to be able to have different lifestyles available whenever the need arises. In other words, deciding that one is "equal to this person" or "in a hierarchical relationship with that person" does not work.
+- Age does not matter in love and friendship. It is certainly true that the tasks of friendship require a steady courage.
+- Concretely speaking, it's making the switch from attachment to self (self-interest) to concern for others (social interest) and gaining a sense of community feeling. Three things are needed at this point: "self-acceptance," "confidence in others," and "contribution to others."
+- "The important thing is not what one is born with but what use one makes of that equipment."
+- Self-affirmation is making suggestions to oneself, such as "I can do it" and "I am strong," even when something is simply beyond one's ability. It is a notion that can bring about a superiority complex, and may even be termed a way of living in which one lies to oneself. With self-acceptance, one the other hand, if one cannot do something, one is simply accepting "one's incapable self" as is and moving forward so that one can do whatever one can. It is not a way of lying to oneself
+- ...separation of tasks - one ascertains the things one can change and the things one cannot change. One cannot change what one is born with. But one can, under one's own power, go about changing what use one makes of that equipment. So in that case, one simply has to focus on what one can change, rather than on what one cannot. This is what I call self-acceptance.
+- ...writer Kurt Vonnegut quoted in one of his books: "God grant me the serenity to accept the things I cannot change; courage to change the things I can; and wisdom to know the difference." It's in the novel Slaughterhouse-Five.
+- Resignation has the connotation of seeing clearly the fortitude and acceptance. Having a firm grasp on the truth of things - that is resignation.
+- ...just because one has arrived at affirmative resignation as one's self-acceptance, it does not automatically follow that one finds community feeling.
+- When one is switching from attachment to self to concern for others, the second key concept - confidence in others - becomes absolutely essential
+- I will consider the words "believing in others" in the context of distinguishing trust from confidence. First, when we speak of trust, we are referring to something that comes with set conditions. We refer to it as credit.
+- ...from the standpoint of Adlerian psychology, the basis of interpersonal relations is founded not on trust but on confidence
+- It is doing without any set conditions whatsoever when believing in others. Even if one does not have the sufficient objective grounds for trusting someone, one believes. One believes unconditionally without concerning oneself with such things as security. That is confidence.
+- ...if one believes in others without seeing any conditions whatsoever, there will be times when one gets taken advantage of. Just like the guarantor of a debt, there are times when one may suffer damages. The attitude of continuing to believe in someone even in such instances is what we call confidence
+- It is precisely because we lay a foundation of unconditional confidence that it is possible for us to build a deep relationship
+- Unconditional confidence is a means for making your interpersonal relationship with a person better and for building a horizontal relationship
+- It is precisely because one can gain the courage to enter into deeper relationships by having confidence in others that the joy of one's interpersonal relations can grow, and one's joy in life can grow, too
+- First, one accepts one's irreplaceable "this me" just as it is. That is self-acceptance. Then, one places unconditional confidence in other people. That is confidence in others. You can accept yourself, and you can have confidence in others.
+- In effect, placing confidence in others is connected to seeing others as comrades. It is because they are one's comrades that one can have confidence in them
+- So one can gain the sense of belonging, that "it's okay to be here."
+- ...community feeling is not something that is attainable with just self-acceptance and confidence in others. It is at this point that the third key concept - contribution to others - becomes necessary
+- Contribution to others does not connote self-sacrifice. Adler goes so far as to warn that those who sacrifice their own lives for others are people who have conformed to society too much.
+- ...contribution to others, rather than being about getting rid of the "I" and being of service to someone, is actually something one does in order to be truly aware of the worth of the "I."
+- ...these three are linked as an indispensable whole, in a sort of circular structure. It is because one accepts oneself just as one is - one self-accepts - that one can have "confidence in others" without the fear of being taken advantage of. And it is because one can place unconditional confidence in others, and feel that people are one's comrades, that one can engage in "contribution to others." Further, it is because one contributes to others that one can have the deep awareness that "I am of use to someone" and accept oneself just as one is. One can self-accept.
+- "The two objectives for behavior: to be self-reliant and to live in harmony with society. The two objectives for the psychology that supports these behaviors: the consciousness that I have the ability and the consciousness that people are my comrades."
+- For a human being, the greatest unhappiness is not being able to like oneself. Adler came up with an extremely simple answer to address this reality. Namely, that the feeling of "I am beneficial to the community" or "I am of use to someone" is the only thing that can give one a true awareness that one has worth.
+- When we speak of contribution to others, it doesn't matter if the contribution is not a visible one
+- ...happiness is the feeling of contribution
+- We are beings who choose freedom while aspiring to happiness
+- ...one can have happiness only if one has freedom?
+- If one really has a feeling of contribution, one will no longer have any need for recognition from others. Because one will already have the real awareness that "I am of use to someone," without needing to go out of one's way to be acknowledged by others.
+- What Adlerian psychology emphasizes at this juncture are the words "the courage to be normal."
+- Self-acceptance is the vital first step. If you are able to possess the courage to be normal, your way of looking at the world will change dramatically
+- Think of life as a series of dots. If you look through a magnifying glass at a solid line drawn with chalk, you will discover that what you thought was a line is actually a series of small dots. Seemingly linear existence is actually a series of dots; in other words, life is a series of moments
+- It is a series of moments called "now." We can live only in the here and now. Our lives exist only in moments. Adults who do not know this attempt to impose "linear" lives onto young people.
+- A well-planned life is not something to be treated as necessary or unnecessary, as it is impossible
+- The fact that you think you can see the past, or predict the future, is proof that rather than living earnestly here and now, you are living in a dim twilight. Life is a series of moments, and neither the past nor the future exists
+- Lifestyle is about here and now, and is something that one can change of one's own volition. The life of the past that looks like a straight line appears that way to you only as a result of your making ceaseless resolutions to not change. The life that lies ahead of you is a completely blank page, and there are no tracks that have been laid for you to follow. There is no story there.
+- You set objectives for the distant future, and think of now as your preparatory period. You think, I really want to do this, and I'll do it when the time comes. This is a way of living that postpones life. As long as we postpone life, we can never go anywhere and will pass our days only one after the next in dull monotony, because we think of here and now as just a preparatory period, as a time for patience
+- Life is always simple, not something that one needs to get too serious about. If one is living each moment earnestly, there is no need to get too serious
+- The greatest life-lie of all is to not live here and now. It is to look at the past and the future, cast a dim light on one's entire life, and believe that one has been able to see something. Until now, you have turned away from the here and now and shone a light only on invented pasts and futures. You have told a great life to your life, to these irreplaceable moments
+- What is the meaning of life? What are people living for? When someone posed these questions to Adler, this was his answer: "Life in general has no meaning."
+- An experience of hardship should be an opportunity to look ahead and think, What can I do from now on?
+- ...Whatever meaning life has must be assigned to it by the individual
+- ...life in general has no meaning whatsoever. But you can assign meaning to that life. And you are the only one who can assign meaning to your life
+- You are lost in your life. Why are you lost? You are lost because you are trying to choose freedom, that is to say, a path on which you are not afraid of being disliked by others and you are not living others' lives - a path that is yours alone
+- When one attempts to choose freedom, it is only natural that one may lose one's way. At this juncture, Adlerian psychology holds up a "guiding star" as a grand compass pointing to a life of freedom
+- No matter what moments you are living, or if there are people who dislike you, as long as you do not lose sight of the guiding star of "I contribute to others," you will not lose your way, and you can do whatever you like. Whether you're disliked or not, you pay it no mind and live free.
+- ...let's dance in earnest the moments of the here and now, and live in earnest. Do not look at the past, and do not look at the future. One lives each complete moment like a dance. There is no need to compete with anyone, and one has no use for destinations. As long as you are dancing, you will get somewhere
+- It is that the power of one person is great, or, rather, "my power is immeasurably great."
+- Well, in other words, if "I" change, the world will change. This means that the world can be changed only by me and no one else will change it for me
+- ...the words of Adler: "Someone has to start. Other people might not be cooperative, but that is not connected to you. My advice is this: You should start. With no regard to whether others are cooperative or not."
 
 #### Stats:
 **Started:** January 18, 2025 | **Finished:** January 23, 2025 | **Time read:** x min
